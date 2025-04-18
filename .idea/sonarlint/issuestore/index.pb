@@ -5,3 +5,5 @@ Q
 !contracts/staff-verification.clar,1/e/1ecae03e8f0cfc2b99bd7471e93ddf86eec317b2
 P
  tests/staff-verification.test.ts,5/5/557e60671c36b1242c7bb0d86f23fe6b7f18b727
+Q
+!contracts/store-verification.clar,5/c/5c0190a4f14daac81105a386781f17ae89fbf215
